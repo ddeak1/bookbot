@@ -1,2 +1,2 @@
 # bookbot
-A Python program to analyze a book and create statistical information
+BookBot is my first project!
